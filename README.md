@@ -47,7 +47,7 @@ $ npm run start:prod
 
 ## API Docs
 
-[Nest](http://localhost:3000/docs) API Documentation.
+[API Documentation](http://localhost:3000/docs)
 
 ## Test
 
